@@ -1,0 +1,33 @@
+blockquote::first-line {
+    color: red;
+}
+.head {
+    color: blue;
+    text-align: center;
+}
+
+span.black {
+    color: black;
+    font-size: xx-large;
+}
+span.header {
+    color: blue;
+    text-align: center;
+}
+header.span {
+    color: blue;
+    text-align: center;
+}
+body {
+    background-color: rgb(194, 231, 231);
+}
+ul.numero {
+    list-style: decimal;
+}
+hr {
+    color: brown;
+}
+img {
+    bottom: 1000cm;
+    right: 1000cm;
+}
