@@ -34,16 +34,20 @@ img {
     width: 350px;
     height: 300px;
 }
-span.activo:active{
+a.activo:active{
     background-color: yellow;
     color: red;
 }
 
-/* a.span:link {
+div a:link {
     background-color: white;
     color: blue;
 }
-a:visited {
+div a:visited {
     background-color: blue;
     color: white;
-} */
+}
+
+blockquote.before::before {
+    content: "1.";
+}
